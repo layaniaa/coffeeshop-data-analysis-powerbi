@@ -14,7 +14,8 @@ Analyzing sales trends to observe increases or decreases across different months
 Based on these insights, actionable decisions were derived to improve performance, optimize product offerings, and enhance customer experience.
 
 KPI Questions – Coffee Shop Analysis
-hat are the key revenue and profit drivers?
+
+what are the key revenue and profit drivers?
 
 Which products perform best and worst?
 
