@@ -12,3 +12,12 @@ Evaluating customer satisfaction levels
 Analyzing sales trends to observe increases or decreases across different months and days
 
 Based on these insights, actionable decisions were derived to improve performance, optimize product offerings, and enhance customer experience.
+
+KPI Questions – Coffee Shop Analysis
+hat are the key revenue and profit drivers?
+
+Which products perform best and worst?
+
+How do sales trends change over time?
+
+What is the current level of customer satisfaction?
